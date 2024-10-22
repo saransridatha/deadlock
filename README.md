@@ -27,6 +27,11 @@ To run the application, execute the following command in your terminal:
 ```bash
 python deadlock.py
 ```
+(or)
+
+```bash
+python3 deadlock.py
+```
 ## How to Use
 1. Enter the number of processes and resources.
 2. Click the "Next" button to proceed to input the allocation and request matrices.
