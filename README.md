@@ -1,7 +1,7 @@
-# Deadlock Detection and Prevention
+# Deadlock Detection and Prevention using Banker's Algorithm
 
 ## Overview
-This project implements a deadlock detection and prevention application using Python's `tkinter` library for a graphical user interface (GUI). The application allows users to input the number of processes and resources, along with their allocation and request matrices, to detect deadlocks in a system.
+This project implements a deadlock detection and prevention (using Banker's Algorithm) application using Python's `tkinter` library for a graphical user interface (GUI). The application allows users to input the number of processes and resources, along with their allocation and request matrices, to detect deadlocks in a system.
 
 ## Features
 - User-friendly Graphical User Interface(GUI).
