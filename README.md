@@ -35,12 +35,11 @@ python deadlock.py
 5. A message box will inform you if a deadlock was detected or if a safe sequence exists.
 
 ## Screenshots
-screenshots/1.png
-screenshots/2.png
-screenshots/3.png
-![ss1](/screenshots/1.png)
-![ss1](/screenshots/2.png)
-![ss3](/screenshots/3.png)
+
+<img src="/screenshots/1.png" alt="Inputs from user" width="500" height="300">
+<img src="/screenshots/2.png" alt="Deadlock not detected" width="500" height="300">
+<img src="/screenshots/3.png" alt="Deadlock detected" width="500" height="300">
+
 
 
 
