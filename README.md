@@ -19,3 +19,21 @@ This project implements a deadlock detection and prevention application using Py
    ```bash
    git clone https://github.com/saransridatha/deadlock.git
    cd deadlock
+2. Ensure you have Python installed on your system.
+
+## Usage
+To run the application, execute the following command in your terminal:
+```bash
+python deadlock.py
+
+## How to Use
+1. Enter the number of processes and resources.
+2. Click the "Next" button to proceed to input the allocation and request matrices.
+3. Fill in the matrices and the available vector.
+4. Click the "Detect Deadlock" button to check for deadlocks.
+5. A message box will inform you if a deadlock was detected or if a safe sequence exists.
+
+## Screenshots
+<imgs>
+
+
