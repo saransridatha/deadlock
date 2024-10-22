@@ -36,9 +36,11 @@ python deadlock.py
 
 ## Screenshots
 
-<img src="/screenshots/1.png" alt="Inputs from user" width="500" height="300">
-<img src="/screenshots/2.png" alt="Deadlock not detected" width="500" height="300">
-<img src="/screenshots/3.png" alt="Deadlock detected" width="500" height="300">
+<div style="display: flex; justify-content: space-around;">
+  <img src="/screenshots/1.png" alt="Image 1" width="300">
+  <img src="/screenshots/2.png" alt="Image 2" width="300">
+  <img src="/screenshots/3.png" alt="Image 3" width="300">
+</div>
 
 
 
